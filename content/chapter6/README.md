@@ -1,0 +1,1 @@
+# Chapter 6: Using the Sigstore language clients API

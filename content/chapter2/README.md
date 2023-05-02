@@ -1,0 +1,1 @@
+# Chapter 2: Learn about the different subprojects composing Sigstore and about how they interact together

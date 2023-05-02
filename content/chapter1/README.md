@@ -1,0 +1,1 @@
+# Chapter 1: General introduction to Sigstore, briefly covering its history, philosophy and purpose

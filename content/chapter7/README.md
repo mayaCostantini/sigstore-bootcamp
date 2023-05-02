@@ -1,0 +1,1 @@
+# Chapter 7: The Sigstore policy-controller

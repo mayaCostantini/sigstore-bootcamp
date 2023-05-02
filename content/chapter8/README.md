@@ -1,0 +1,1 @@
+# Chapter 8: Sigstore in Tekton pipelines
