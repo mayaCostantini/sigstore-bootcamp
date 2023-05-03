@@ -1,4 +1,6 @@
 # Welcome to this Sigstore (unofficial) bootcamp!
+_This repository is a work in progress_ :construction:
+
 An attempt at gathering knowledge to get you started with understanding and using project [Sigstore](https://sigstore.dev).
 
 ## What will you find in this guide?
