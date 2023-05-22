@@ -1,1 +1,1 @@
-# Chapter 3: Installation instructions for the Sigstore Cosign client and understanding the Sigstore signing workflow for container images
+# Chapter 3: Installation instructions for the Sigstore Cosign client

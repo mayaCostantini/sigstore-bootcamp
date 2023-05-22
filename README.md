@@ -12,8 +12,8 @@ The Sigstore bootcamp is organized the following way:
 This introductory section offers an overview of project Sigstore:
 
 - **Chapter 1:** General introduction to Sigstore, its history, philosophy and purpose
-- **Chapter 2:** Learn about the different subprojects composing Sigstore and about how they interact togetherd
-- **Chapter 3:** Installation instructions for the Sigstore Cosign client and understanding the Sigstore signing workflow for container images
+- **Chapter 2:** How does Sigstore work? Introduction to Sigstore subprojects and workflows
+- **Chapter 3:** Installation instructions for the Sigstore Cosign client
 
 ### Sigstore use cases: sign everything
 
